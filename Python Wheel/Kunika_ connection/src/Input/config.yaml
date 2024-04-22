@@ -9,7 +9,7 @@ table:
 full_load: 
 start_date: 
 end_date: 
-frequency: "
+frequency: 
 output: 
 
 # database_type: "mongodb"
