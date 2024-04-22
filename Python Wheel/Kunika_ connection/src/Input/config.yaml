@@ -1,18 +1,18 @@
 database_type: "postgres"
-database: "syncsafe"
-username: "syncsafe"
-password: "AVNS_0WRP9YKcMhQgG-y_MMd"
-host: "s2datasystems-do-user-15810817-0.c.db.ondigitalocean.com"
-port: "25060"
-schema: "Kunika"
-table: "basic"
-full_load: "True"
-start_date: "2024-04-11"
-end_date: "2024-04-25"
-frequency: "daily"
-output: "json"
+database: 
+username: 
+password: 
+host: 
+port: 
+schema: 
+table: 
+full_load: 
+start_date: 
+end_date: 
+frequency: "
+output: 
 
 # database_type: "mongodb"
-# database: "Kunika"
-# collection: "basic"
-# full_load: "False"
+# database: 
+# collection: 
+# full_load: 
